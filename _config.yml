@@ -1,7 +1,7 @@
 name: Lau Deisgns
 favicon: null
-layout_spectrum: 0.8849953429307789
-typography_spectrum: 0.5494868638925254
+layout_spectrum: 0.76058
+typography_spectrum: 0.60368
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.44456287659704685
-  lightness: 0.37974896212108433
-  saturation: 0.9333762030582875
-  rhythmicContrast: 0.6730394696351141
+    - '#fefefe'
+    - '#070616'
+    - '#95269c'
+    - '#2f329b'
+    - '#d0aea2'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
