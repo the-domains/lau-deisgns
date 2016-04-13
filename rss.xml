@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lau Deisgns]]></title>
-        <description><![CDATA[Lau Deisgns]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Lau Designs]]></title>
+        <description><![CDATA[Lau Designs]]></description>
+        <link>https://thegrid.ai/lau-deisgns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 19:24:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 21:28:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lau-deisgns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>sdfsdfsd</p>]]></description>
+            <link>https://thegrid.ai/lau-deisgns/sdfsdfsd/index.html</link>
+            <guid isPermaLink="false">f51a6644-05b9-404b-8e49-186c8e9c6839</guid>
+            <pubDate>Wed, 13 Apr 2016 21:28:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World</p>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/lau-deisgns/hello-world/index.html</link>
             <guid isPermaLink="false">2f75d762-7002-4351-bc99-d32f43937a3f</guid>
             <pubDate>Tue, 05 Apr 2016 19:23:39 GMT</pubDate>
         </item>
